@@ -41,7 +41,7 @@ It aims to provide a comprehensive understanding of slavery without oversimplifi
 
 ## 📍 Chapter One: The Origins of the Transatlantic Slave Trade  
 
-![Chapter 1](CHAPTER 1.png)
+![Chapter 1](./CHAPTER%201.png)
 
 ### Overview
 - Slavery in ancient civilizations  
@@ -53,7 +53,7 @@ It aims to provide a comprehensive understanding of slavery without oversimplifi
 
 ## 📍 Chapter Two: Not All White People Supported Slavery  
 
-![Chapter 2](CHAPTER 2.png)
+![Chapter 2](./CHAPTER%202.png)
 
 ### Overview
 - Quaker abolitionists  
@@ -65,7 +65,7 @@ It aims to provide a comprehensive understanding of slavery without oversimplifi
 
 ## 📍 Chapter Three: Black Abolitionists and Resistance  
 
-![Chapter 3](CHAPTER 3.png)
+![Chapter 3](./CHAPTER%203.png)
 
 ### Overview
 - Olaudah Equiano  
@@ -77,7 +77,7 @@ It aims to provide a comprehensive understanding of slavery without oversimplifi
 
 ## 📍 Chapter Four: African Participation in the Slave Trade  
 
-![Chapter 4](CHAPTER 4.png)
+![Chapter 4](./CHAPTER%204.png)
 
 ### Overview
 - African kingdoms and intermediaries  
@@ -100,7 +100,7 @@ It aims to provide a comprehensive understanding of slavery without oversimplifi
 
 ## 📍 Chapter Six: Why Historical Honesty Matters  
 
-![Chapter 6](CHAPTER 6.png)
+![Chapter 6](./CHAPTER%206.png)
 
 ### Overview
 - Danger of historical distortion  
@@ -112,7 +112,7 @@ It aims to provide a comprehensive understanding of slavery without oversimplifi
 
 ## 📍 Chapter Seven: Lessons for the Modern World  
 
-![Chapter 7](CHAPTER 7.png)
+![Chapter 7](./CHAPTER%207.png)
 
 ### Overview
 - Economic greed and morality  
