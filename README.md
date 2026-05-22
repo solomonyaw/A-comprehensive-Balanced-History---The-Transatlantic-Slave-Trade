@@ -1,7 +1,7 @@
 # 📘 The Transatlantic Slave Trade  
 ## Origins, Resistance, Racism, African Participation & Lessons for the Modern World  
 
-![Cover Image]<img src="./BOOK COVER.png" width="300px" heigth="300px">
+<img src="./BOOK COVER.png" width="300px" heigth="300px">
 
 ---
 
