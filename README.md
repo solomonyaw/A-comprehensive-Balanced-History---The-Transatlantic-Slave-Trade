@@ -3,6 +3,8 @@
 
 <img src="./BOOK COVER.png" width="300px" heigth="300px">
 
+Download here: https://github.com/solomonyaw/A-comprehensive-Balanced-History---The-Transatlantic-Slave-Trade/blob/main/A%20comprehensive%20%26%20Balanced%20History%20-%20The%20Transatlantic%20Slave%20Trade.pdf
+
 ---
 
 ## ✍️ Author
